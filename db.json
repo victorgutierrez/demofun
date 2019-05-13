@@ -1,24 +1,22 @@
 {
-  "global": [
-    {
-    "profitability": {
-        "value": 18.40
-    },
-    "benefits": {
-        "value": "22.31",
-        "currency": "EUR"
-    },
-    "capital": {
-        "value": "400.40",
-        "currency": "EUR"
-    },
-    "projects": [{
-            "wallet": "FNDVICM001"
+    "global": [{
+        "profitability": {
+            "value": 18.40
         },
-        {
-            "wallet": "FNDVICM002"
-        }
-    ]
-}
-  ]
+        "benefits": {
+            "value": "22.31",
+            "currency": "EUR"
+        },
+        "capital": {
+            "value": "400.40",
+            "currency": "EUR"
+        },
+        "projects": [{
+                "wallet": "FNDVICM001"
+            },
+            {
+                "wallet": "FNDVICM002"
+            }
+        ]
+    }]
 }
